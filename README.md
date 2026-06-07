@@ -21,6 +21,7 @@ exercises and datasets.
 | [`lab_01_exercise.ipynb`](lab_01_exercise.ipynb) | Exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oasunram-cyber/ITCS-3162/blob/main/lab_01_exercise.ipynb) |
 | [`lab_02_exercise.ipynb`](lab_02_exercise.ipynb) | Exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oasunram-cyber/ITCS-3162/blob/main/lab_02_exercise.ipynb) |
 | [`lab_03_exercise.ipynb`](lab_03_exercise.ipynb) | Exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oasunram-cyber/ITCS-3162/blob/main/lab_03_exercise.ipynb) |
+| [`lab_04_exercise.ipynb`](lab_04_exercise.ipynb) | Exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/oasunram-cyber/ITCS-3162/blob/main/lab_04_exercise.ipynb) |
 
 ## Getting Started
 
